@@ -1,0 +1,56 @@
+p {
+    color: bisque;
+}
+
+h1{
+    font-family: "Architects Daughter", cursive;
+    font-weight: 400;
+    font-style: oblique;
+}
+
+#red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+
+}
+
+#brown {
+    color: brown;
+}
+
+#blue {
+    color: blue;
+}
+
+#black {
+    color: black;
+}
+
+#gray {
+    color: gray;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+#squares {
+    background-color: gray;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-color: brown;
+}
+
+img {
+
+    height: 200px;
+    width: 200px;
+}
