@@ -1,22 +1,21 @@
+h1 {
+    color: red;
+}
 
-    h1 {
-        color: red;
-    }
+.testclass {
+    font-size: 30px;
 
-    .testclass {
-        font-size: 30px;
+    color: rgb(150, 43, 226);
+}
 
-        color: rgb(150, 43, 226);
-    }
+p[draggable] {
+    color: rgb(140, 0, 255);
+}
 
-    p[draggable] {
-        color: rgb(140, 0, 255);
-    }
+#myButton {
+    color: rgb(174, 41, 11);
+}
 
-    #myButton {
-        color: rgb(174, 41, 11);
-    }
-
-    * {
-        text-align: center;
-    }
+* {
+    text-align: center;
+}
